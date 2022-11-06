@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/aws/aws-lambda-go/lambda"
-	"github.com/djatwood/formailer"
-	"github.com/djatwood/formailer/handlers"
+	"github.com/Rubonnek/formailer"
+	"github.com/Rubonnek/formailer/handlers"
 )
 
 func main() {

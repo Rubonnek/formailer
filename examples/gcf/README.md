@@ -7,8 +7,8 @@ package gcf
 
 import (
 	"net/http"
-	"github.com/djatwood/formailer"
-	"github.com/djatwood/formailer/handlers"
+	"github.com/Rubonnek/formailer"
+	"github.com/Rubonnek/formailer/handlers"
 
 	"github.com/GoogleCloudPlatform/functions-framework-go/functions"
 )

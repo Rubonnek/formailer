@@ -1,4 +1,4 @@
-module github.com/djatwood/formailer
+module github.com/Rubonnek/formailer
 
 go 1.16
 

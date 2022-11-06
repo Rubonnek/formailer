@@ -7,8 +7,8 @@ package main
 
 import (
 	// Formailer
-	"github.com/djatwood/formailer"
-	"github.com/djatwood/formailer/handlers"
+	"github.com/Rubonnek/formailer"
+	"github.com/Rubonnek/formailer/handlers"
 
 
 	// For setting up a local instance we need to setup an http server

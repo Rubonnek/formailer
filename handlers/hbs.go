@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/djatwood/formailer"
-	"github.com/djatwood/formailer/logger"
+	"github.com/Rubonnek/formailer"
+	"github.com/Rubonnek/formailer/logger"
 	"github.com/google/martian/log"
 )
 
