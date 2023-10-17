@@ -31,8 +31,8 @@ func hbsResponse(w http.ResponseWriter, code int, err error) {
 }
 
 // Quick hack to redirect users when the contact form has been submitted successfully or otherwise
-var succesSlug string = "/contact/success"
-var failureSlug string = "/contact/failure"
+var succesSlug string = "/en/contact/success"
+var failureSlug string = "/en/contact/failure"
 
 // hbs just needs a normal http handler
 func Hbs(c formailer.Config, w http.ResponseWriter, r *http.Request) {
